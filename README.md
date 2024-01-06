@@ -38,11 +38,7 @@ The program displays a menu and asks users to input an option from 1 to 11.
 	* Show the result of the remove: success or fail.
 	* After removing, the program returns to the menu.
 
+## License & Copyright
+ &copy; 2023 Mai Minh Nhat Minatisleeping Licensed under the [GPL-3.0 LICENSE](https://github.com/minatisleeping/Badminton-Shop/blob/main/LICENSE). 
 
-	
-
-
-<!-- ## License & Copyright
- &copy; 2023 Mai Minh Nhat Minatisleeping Licensed under the [GPL-3.0 LICENSE](https://github.com/minatisleeping/trello-web/blob/master/LICENSE).  -->
-
- <!-- > :love_you_gesture: Feel free to use my repository and star it if you find something interesting :love_you_gesture:  -->
+ > :love_you_gesture: Feel free to use my repository and star it if you find something interesting :love_you_gesture: 
