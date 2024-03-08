@@ -39,6 +39,6 @@ The program displays a menu and asks users to input an option from 1 to 11.
 	* After removing, the program returns to the menu.
 
 ## License & Copyright
- &copy; 2023 Mai Minh Nhat Minatisleeping Licensed under the [GPL-3.0 LICENSE](https://github.com/minatisleeping/Badminton-Shop/blob/main/LICENSE). 
+ &copy; 2023 Mai Minh Nhat Licensed under the [GPL-3.0 LICENSE](https://github.com/minatisleeping/Badminton-Shop/blob/main/LICENSE). 
 
  > :love_you_gesture: Feel free to use my repository and star it if you find something interesting :love_you_gesture: 
